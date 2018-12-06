@@ -1,0 +1,12 @@
+[2018-12-06 13:33:36] /index.php?act=search&op=index&cate_id=12 ( act=search&op=index ) 
+ERR: Db Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS nc_count FROM `33hao_goods` WHERE ( gc_id_3 = '12' ) AND ( goods_state = '1' at line 1
+SELECT count(distinct ) AS nc_count FROM `33hao_goods` WHERE ( gc_id_3 = '12' ) AND ( goods_state = '1' ) AND ( goods_verify = '1' ) LIMIT 1  
+[2018-12-06 14:03:41] /index.php?act=brand&op=list&brand=208 ( act=brand&op=list ) 
+ERR: Db Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS nc_count FROM `33hao_goods` WHERE ( brand_id = '208' ) AND ( goods_state = ' at line 1
+SELECT count(distinct ) AS nc_count FROM `33hao_goods` WHERE ( brand_id = '208' ) AND ( goods_state = '1' ) AND ( goods_verify = '1' ) LIMIT 1  
+[2018-12-06 14:04:19] /index.php?act=brand&op=list&brand=208 ( act=brand&op=list ) 
+ERR: Db Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS nc_count FROM `33hao_goods` WHERE ( brand_id = '208' ) AND ( goods_state = ' at line 1
+SELECT count(distinct ) AS nc_count FROM `33hao_goods` WHERE ( brand_id = '208' ) AND ( goods_state = '1' ) AND ( goods_verify = '1' ) LIMIT 1  
+[2018-12-06 14:04:24] /index.php?act=search&op=index&cate_id=12 ( act=search&op=index ) 
+ERR: Db Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS nc_count FROM `33hao_goods` WHERE ( gc_id_3 = '12' ) AND ( goods_state = '1' at line 1
+SELECT count(distinct ) AS nc_count FROM `33hao_goods` WHERE ( gc_id_3 = '12' ) AND ( goods_state = '1' ) AND ( goods_verify = '1' ) LIMIT 1  
